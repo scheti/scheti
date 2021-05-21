@@ -1,4 +1,4 @@
-# <p align="center">Hi there :wave:&nbsp; I’m Tim Scheurenbrand :technologist:</p>
+# <p align="center">Hi there :wave:&nbsp; I’m Tim :technologist:</p>
 
 
 <p align="center">A mechanical engineering masters student specializing in robotics and information technology and enthusiastic about software and microcontrollers from Karlsruhe, Germany</p>
