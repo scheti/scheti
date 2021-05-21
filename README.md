@@ -59,8 +59,8 @@
 ![](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![](https://img.shields.io/static/v1?style=flat&message=Jitsi&color=97979A&logo=Jitsi&logoColor=FFFFFF&label=)
-![Trello](https://img.shields.io/static/v1?style=flat&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
-![Confluence](https://img.shields.io/static/v1?style=flat&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=flat&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![](https://img.shields.io/static/v1?style=flat&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
 
 
 ### About me:
@@ -73,6 +73,8 @@
     "city": "Karlsruhe",
     "country": "DE",
     "interested_in": "Python, ML, DL, hardware design, microcontrollers, data pipelines, microservices, ...",
+    "#_private_repositories": 9,
+    "LOC": "approx. 34.000 (Python)",
     "outdoor_activities": ["sailing", "windsurfing"]
   },
   "currently_working_on": {
