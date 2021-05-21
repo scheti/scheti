@@ -92,16 +92,16 @@
   },
   "past_work": [
       "Data Driven Stock Data Analysis with Python, Keras and Tensorflow   
-        @ ITS Institute of Thermal Turbomachinery, KIT"
+        @ ITS Institute of Thermal Turbomachinery, KIT",
       "microservice based infrastructure for real-time multi-sensor data acquisition on   
        retrofitted machining centers @ wbk Institute of Production Science, KIT",
       "single-page web application rest API client",
       "fast and universal sensor data pipeline with Python for real-time sensor data acquisition with
        influxdb, Grafana Dashboard and self-build arduino based sensor-to-ethernet interface",
       "CNC router for polymer materials with manual control buttons and raspberry pi based rest API control",
-      "2D scara robot demonstrator based on Arduino Mega and 2 stepper motor drivers"
-      "Arduino Uno based axial force measuring device with network interface and MS Excel integration"
-      "Python script to convert WebDAQ binary data file format (.wdd) files into usable formats"
+      "2D scara robot demonstrator based on Arduino Mega and 2 stepper motor drivers",
+      "Arduino Uno based axial force measuring device with network interface and MS Excel integration",
+      "Python script to convert WebDAQ binary data file format (.wdd) files into usable formats",
   ]
 }
 ```
