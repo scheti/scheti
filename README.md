@@ -1,4 +1,4 @@
-# <p align="center">Hi there :wave:&nbsp; I’m Tim :technologist:</p>
+# <p align="center">Hi there :wave:&nbsp; I’m Tim</p>
 
 
 <p align="center">A mechanical engineering master's student majoring in robotics and information technology and enthusiastic about software and microcontrollers from Karlsruhe, Germany</p>
@@ -68,7 +68,6 @@
 {
   "about_me": {
     "firstName": "Tim",
-    "lastName": "Scheurenbrand",
     "isAlive": true,
     "city": "Karlsruhe",
     "country": "DE",
