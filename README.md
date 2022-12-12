@@ -76,7 +76,7 @@
   },
   "currently_working_on": {
     "education": "masters degree in mechanical engineering at KIT, Karlsruhe ",
-    "":"co-founder and tech lead @ SiteView",
+    "work":"co-founder and tech lead @ SiteView",
     "misc":
       [
         "Python-Flask based portfolio management web application for co-investing built on   
