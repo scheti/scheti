@@ -72,15 +72,11 @@
     "city": "Karlsruhe",
     "country": "DE",
     "interested_in": "Python, ML, DL, hardware design, microcontrollers, data pipelines, microservices, ...",
-    "#_private_repositories": 9,
-    "LOC": "approx. 34.000 (Python)",
     "outdoor_activities": ["sailing", "windsurfing"]
   },
   "currently_working_on": {
     "education": "masters degree in mechanical engineering at KIT, Karlsruhe ",
-    "student trainee job": "creating a state of the art website for a local engineering company",
-    "student_assistant_job": "creatring AI & ML training materials for technical business consultancies   
-                              @ wbk Institute of Production Science, KIT",
+    "":"co-founder and tech lead @ [SiteView](https://www.site-view.de "SiteView")",
     "misc":
       [
         "Python-Flask based portfolio management web application for co-investing built on   
